@@ -2,7 +2,7 @@
 
 Cat-Dog Classifier using CNN
 Overview
-Implemented a Convolutional Neural Network (CNN) to classify images of cats and dogs. Achieved [mention accuracy]% accuracy on the test set using TensorFlow/Keras.
+Implemented a Convolutional Neural Network (CNN) to classify images of cats and dogs
 
 Key Features
 Trained a CNN model on a dataset containing cats and dogs images.
